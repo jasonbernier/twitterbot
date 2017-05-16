@@ -1,6 +1,8 @@
 #A twitter bot to find a users latest tweet, and repost a modified version based on user preferences. In Python 2.7
 #Written by Jason Bernier
 #https://github.com/jasonbernier
+#You need to pip install python-twitter before this will work
+#$pip install python-twitter
 
 import re
 import twitter
